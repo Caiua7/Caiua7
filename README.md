@@ -24,6 +24,14 @@ Tenho interesse em desenvolver soluções utilizando Inteligência Artificial, E
 
 ---
 
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caiua7&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiua7&layout=compact&theme=transparent)
+
+---
+
 ## Projetos em Destaque
 
 ### 🐞 [BugHunter AI](https://github.com/Caiua7/bughunter-ai.git)
