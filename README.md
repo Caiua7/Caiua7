@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
 # Olá! Eu sou o Caiuã 👋
 **Software Engineering Student | Artificial Intelligence | Data Engineering | Cybersecurity**
 
