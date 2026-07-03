@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá! Eu sou o Caiuã 👋
 
-<!--
-**Caiua7/Caiua7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | AI • Data Engineering • Cybersecurity
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software na PUC Campinas e busco oportunidades de estágio nas áreas de Inteligência Artificial, Engenharia de Dados, Desenvolvimento de Software, Cloud Computing e Cibersegurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em desenvolver soluções utilizando Inteligência Artificial, Engenharia de Dados e desenvolvimento de software, além de aprofundar meus conhecimentos em segurança de aplicações e hacking ético para criar sistemas mais seguros e eficientes.
+
+---
+
+## Tecnologias
+
+🐍 Python
+
+⚛ React
+
+⚡ FastAPI
+
+🤖 Google Gemini
+
+🗄 MySQL
+
+🍃 MongoDB
+
+☁ Git & GitHub
+
+---
+
+## Projetos em Destaque
+
+### 🐞 BugHunter AI
+
+Assistente virtual utilizando Google Gemini para estudos em Bug Bounty.
+
+### 📊 Credit Card Fraud Detection
+
+Modelo de Machine Learning para detecção de fraudes em transações financeiras.
+
+### 🤖 NeoPrice
+
+Sistema Full Stack para Analytics e Pricing utilizando IA Generativa.
+
+---
+
+## Atualmente estudando
+
+- Bug Bounty
+- Machine Learning
+- Engenharia de Dados
+- Cloud Computing
+
+---
+
+## Contato
+
+📧 Caiua.vieira@gmail.com
+
+💼 www.linkedin.com/in/caiua-vieira
+
+🌐 https://github.com/Caiua7
