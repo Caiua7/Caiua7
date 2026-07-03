@@ -7,8 +7,6 @@ Tenho interesse em desenvolver soluções utilizando Inteligência Artificial, E
 
 ---
 
-## Tecnologias
-
 ## 🚀 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
