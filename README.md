@@ -1,7 +1,5 @@
 # Olá! Eu sou o Caiuã 👋
 
-Software Engineering Student | AI • Data Engineering • Cybersecurity
-
 Sou estudante de Engenharia de Software na PUC Campinas e busco oportunidades de estágio nas áreas de Inteligência Artificial, Engenharia de Dados, Desenvolvimento de Software, Cloud Computing e Cibersegurança.
 
 Tenho interesse em desenvolver soluções utilizando Inteligência Artificial, Engenharia de Dados e desenvolvimento de software, além de aprofundar meus conhecimentos em segurança de aplicações e hacking ético para criar sistemas mais seguros e eficientes.
