@@ -26,15 +26,15 @@ Tenho interesse em desenvolver soluções utilizando Inteligência Artificial, E
 
 ## Projetos em Destaque
 
-### 🐞 BugHunter AI
+### 🐞 [BugHunter AI](https://github.com/Caiua7/bughunter-ai.git)
 
 Assistente virtual utilizando Google Gemini para estudos em Bug Bounty.
 
-### 📊 Credit Card Fraud Detection
+### 📊 [Credit Card Fraud Detection](https://github.com/Caiua7/fraud-detection-credit-card.git)
 
 Modelo de Machine Learning para detecção de fraudes em transações financeiras.
 
-### 🤖 NeoPrice
+### 🤖 [NeoPrice](https://github.com/Caiua7/NeoPrice.git)
 
 Sistema Full Stack para Analytics e Pricing utilizando IA Generativa.
 
